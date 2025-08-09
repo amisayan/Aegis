@@ -1,7 +1,6 @@
 # Aegis
 Aegis: A Domain Generalization Framework for Medical Image Segmentation by Mitigating Feature Misalignment
 
-The detailed code will be made publicly available after the paper is accepted.
 
 
 ### Download Dataset
